@@ -1,6 +1,6 @@
-print(“KATIKAM SRAVAN KUMAR REDDY”)
-print(“M SECTION”)
-print(“1AY24AI054”)
+print("KATIKAM SRAVAN KUMAR REDDY" )
+print("M SECTION")
+print("1AY24AI054")
 import random as ran 
 n=ran.randint(0,3)
 s=int(input("Enter the number of times to play:"))
