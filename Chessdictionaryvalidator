@@ -1,6 +1,6 @@
-print(“KATIKAM SRAVAN KUMAR REDDY”)
-print(“M SECTION”)
-print(“1AY24AI054”)
+print("KATIKAM SRAVAN KUMAR REDDY" )
+print("M SECTION")
+print("1AY24AI054")
 
 
 def is_valid_chess_board(board):
