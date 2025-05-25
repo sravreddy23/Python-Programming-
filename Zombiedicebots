@@ -1,6 +1,6 @@
-print(“KATIKAM SRAVAN KUMAR REDDY”)
-print(“M SECTION”)
-print(“1AY24AI054”) 
+print("KATIKAM SRAVAN KUMAR REDDY" )
+print("M SECTION")
+print("1AY24AI054")
 '''write a program to create a bot for the game Zombie Dice
     The bot should be able to play the game and make decisions based on the rules of the game. '''
 import random as ran
