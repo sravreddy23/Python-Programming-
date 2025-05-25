@@ -1,7 +1,6 @@
-print(“KATIKAM SRAVAN KUMAR REDDY”)
-print(“M SECTION”)
-print(“1AY24AI054”)
-
+print("KATIKAM SRAVAN KUMAR REDDY" )
+print("M SECTION")
+print("1AY24AI054")
 def print_zigzag(rows, cols):
     """Prints a zigzag pattern with the given number of rows and columns."""
     for i in range(rows):
