@@ -1,6 +1,6 @@
-print(“KATIKAM SRAVAN KUMAR REDDY”)
-print(“M SECTION”)
-print(“1AY24AI054”) 
+print("KATIKAM SRAVAN KUMAR REDDY" )
+print("M SECTION")
+print("1AY24AI054")
 
 
 def print_table_with_lines(table):
